@@ -1,2 +1,3 @@
 # 3D_Printable_F-22Raptor
-The F-22 Raptor is a well known jet, and I have always been facinated by it. It is known for it's stealth, design, and uniqe look. It is in my eyes one of the best jets out there. 
+The F-22 Raptor is a well known jet and it is known for it's stealth, design, and uniqe look and is one of the best jets out there.  Apart from it's military capabilities, the F-22 is also extremely manuverable and is able to travel at supersonic speeds without using afterburners.
+I always loved Fighter jets, however the F-22 stood out. It is the most deadly, and in my opinion the coolest. A few years later, I began to learn to 3D model, and I decided I would model a F-22. As my 3D modeling skills improved, I was able to make new things. Once I got a 3d printer I worked on this model, and after a while, I was able to make it fully printable, one peice, and a very nice looking model. 
